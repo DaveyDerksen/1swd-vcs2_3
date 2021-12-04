@@ -1,6 +1,5 @@
 melk
 kip
-pindakaas
 pepernoten
 wcpapier
 mayo
@@ -9,3 +8,7 @@ hamburger
 kabab
 pindakaas
 pepernoten
+kalkoen
+pesto
+champagne
+tiramisu
