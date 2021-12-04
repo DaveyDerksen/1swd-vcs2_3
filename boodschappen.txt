@@ -7,3 +7,7 @@ water
 pindakaas
 pepernoten
 wcpapier
+mayo
+curry
+hamburger
+kabab
